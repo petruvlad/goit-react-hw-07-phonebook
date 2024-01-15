@@ -1,0 +1,14 @@
+ul {
+  padding: 0;
+}
+
+li {
+  margin-bottom: 16px;
+}
+
+button {
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  padding: 8px;
+  cursor: pointer;}
